@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1>Welcome to my space :rocket:</h1>
 
+## Interests
+
+- Internet Of Things
+- Embedded systems
+- Machine Learning
+
+<a href="https://www.linkedin.com/in/felipe-santos-14a781143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--
 **valn3y/valn3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
