@@ -16,7 +16,7 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python"/></a> &nbsp;
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript"/></a> &nbsp;
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript"/></a> &nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=FFA518)&nbsp;
+<a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=FFA518"/></a> &nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c)&nbsp;
 
 ## Tools
