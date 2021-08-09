@@ -1,8 +1,13 @@
-<h1 align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  Welcome in my world
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+    Welcome in my world
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  </h1>
+  
+  <a href="README_en.md">Inglês</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="README.md">Português</a>&nbsp;&nbsp;&nbsp;
+</div>
 
 ## Interests
 
