@@ -21,7 +21,8 @@
 
 ## Tools
 
-![Angular](https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
+<a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular"/></a> &nbsp;
+<a href="https://pt-br.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
