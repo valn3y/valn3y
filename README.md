@@ -26,8 +26,8 @@
 <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
 <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux"/></a> &nbsp;
 <a href="https://developer.android.com/"><img alt="Android Studio" src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android"/></a> &nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs)&nbsp;
-![Springboot](https://img.shields.io/badge/Springboot-05122A?style=for-the-badge&logo=springboot)&nbsp;
+<a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs"/></a> &nbsp;
+<a href="https://spring.io/projects/spring-boot"><img alt="Springboot" src="https://img.shields.io/badge/Springboot-05122A?style=for-the-badge&logo=springboot"/></a> &nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-05122A?style=for-the-badge&logo=arduino)&nbsp;
 
 ## Contact me
