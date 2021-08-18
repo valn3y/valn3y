@@ -24,8 +24,8 @@
 <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/Angular-05122A?style=for-the-badge&logo=angular"/></a> &nbsp;
 <a href="https://pt-br.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
 <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
-![Redux](https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android)&nbsp;
+<a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-05122A?style=for-the-badge&logo=redux"/></a> &nbsp;
+<a href="https://developer.android.com/"><img alt="Android Studio" src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android"/></a> &nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs)&nbsp;
 ![Springboot](https://img.shields.io/badge/Springboot-05122A?style=for-the-badge&logo=springboot)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-05122A?style=for-the-badge&logo=arduino)&nbsp;
