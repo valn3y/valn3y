@@ -8,7 +8,7 @@
 
 ## Interests
 
-- Internet Of Things
+- Embedded Systems
 - FullStack Web and Mobile Development
 
 ## Languages
