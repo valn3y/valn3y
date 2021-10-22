@@ -18,6 +18,7 @@
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript"/></a> &nbsp;
 <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=FFA518"/></a> &nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=c%2B%2B)&nbsp;
 
 ## Tools
 
