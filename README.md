@@ -31,6 +31,11 @@
 <a href="https://spring.io/projects/spring-boot"><img alt="Springboot" src="https://img.shields.io/badge/Springboot-05122A?style=for-the-badge&logo=springboot"/></a> &nbsp;
 <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-05122A?style=for-the-badge&logo=arduino"/></a> &nbsp;
 
+## Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valn3y&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true%22" />
+</div>
+
 ## Contact me
 <div align="center">
 <a href="https://www.linkedin.com/in/valney-júnior-b34384149"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin"/></a> &nbsp;
