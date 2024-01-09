@@ -19,6 +19,7 @@
 <a href="https://www.java.com/en/"><img alt="Java" src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=FFA518"/></a> &nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=c%2B%2B)&nbsp;
+<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-05122A?style=for-the-badge&logo=rust"/></a> &nbsp;
 
 ## Tools
 
